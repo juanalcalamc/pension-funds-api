@@ -13,7 +13,6 @@ SQLite como motor de base de datos.
 Pydantic para validación de datos y esquemas.
 
  Funcionalidades principales
- Clientes: registro y consulta de clientes.
 
  Fondos: creación y listado de fondos de inversión.
 
