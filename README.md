@@ -12,14 +12,14 @@ SQLite como motor de base de datos.
 
 Pydantic para validación de datos y esquemas.
 
- Funcionalidades principales
+ Funcionalidades principales:
 
- Fondos: creación y listado de fondos de inversión.
+* Fondos: creación y listado de fondos de inversión.
 
- Suscripciones: suscribir clientes a fondos.
+* Suscripciones: suscribir clientes a fondos.
 
- Cancelaciones: cancelar suscripciones y registrar transacciones asociadas.
+* Cancelaciones: cancelar suscripciones y registrar transacciones asociadas.
 
- Transacciones: historial de movimientos (suscripciones y cancelaciones).
+* Transacciones: historial de movimientos (suscripciones y cancelaciones).
 
- Notificaciones: envío de mensajes informativos al cliente.
+* Notificaciones: envío de mensajes informativos al cliente.
